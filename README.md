@@ -4,6 +4,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camilacostaleitao/)](https://www.linkedin.com/in/camilacostaleitao/)
 
 ### About me
-I am an accountant, passionate about technology, student of systems analysis and development at Universidade Paulista - UNIP
+I am an accountant, passionate about technology, student of Systems Analysis and Development at Universidade Paulista - UNIP
 
 
