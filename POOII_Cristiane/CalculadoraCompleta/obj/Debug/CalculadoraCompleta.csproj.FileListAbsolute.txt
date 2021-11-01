@@ -1,0 +1,6 @@
+E:\Cris Docinho\UNIP\C#\CalculadoraCompleta\obj\Debug\CalculadoraCompleta.csproj.CoreCompileInputs.cache
+E:\Cris Docinho\UNIP\C#\CalculadoraCompleta\bin\Debug\CalculadoraCompleta.exe.config
+E:\Cris Docinho\UNIP\C#\CalculadoraCompleta\bin\Debug\CalculadoraCompleta.exe
+E:\Cris Docinho\UNIP\C#\CalculadoraCompleta\bin\Debug\CalculadoraCompleta.pdb
+E:\Cris Docinho\UNIP\C#\CalculadoraCompleta\obj\Debug\CalculadoraCompleta.exe
+E:\Cris Docinho\UNIP\C#\CalculadoraCompleta\obj\Debug\CalculadoraCompleta.pdb
