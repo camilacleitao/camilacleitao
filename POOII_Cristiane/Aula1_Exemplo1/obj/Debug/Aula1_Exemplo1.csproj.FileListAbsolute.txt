@@ -1,7 +1,0 @@
-C:\Users\camil\source\repos\POOII_Cristiane\Aula1_Exemplo1\bin\Debug\Aula1_Exemplo1.exe.config
-C:\Users\camil\source\repos\POOII_Cristiane\Aula1_Exemplo1\bin\Debug\Aula1_Exemplo1.exe
-C:\Users\camil\source\repos\POOII_Cristiane\Aula1_Exemplo1\bin\Debug\Aula1_Exemplo1.pdb
-C:\Users\camil\source\repos\POOII_Cristiane\Aula1_Exemplo1\obj\Debug\Aula1_Exemplo1.csproj.AssemblyReference.cache
-C:\Users\camil\source\repos\POOII_Cristiane\Aula1_Exemplo1\obj\Debug\Aula1_Exemplo1.csproj.CoreCompileInputs.cache
-C:\Users\camil\source\repos\POOII_Cristiane\Aula1_Exemplo1\obj\Debug\Aula1_Exemplo1.exe
-C:\Users\camil\source\repos\POOII_Cristiane\Aula1_Exemplo1\obj\Debug\Aula1_Exemplo1.pdb
